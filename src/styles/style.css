@@ -1,0 +1,17 @@
+.main-box {
+  border: 3px solid green;
+ width: 40%;
+ margin: 30px auto;
+ display: flex;
+ flex-direction: column;
+ background: linear-gradient(grey, turquoise);
+ text-align: center;
+}
+
+.header {
+  align-self: center;
+}
+
+.mortgage-form {
+  text-align: center;
+}
