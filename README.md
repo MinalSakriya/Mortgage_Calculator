@@ -4,6 +4,31 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+Mortgage Calculator
+
+Build a simple mortgage affordability calculator, which takes in a person's salary (and optionally, their partner's salary). Display the maximum value of the property that the person or couple can afford. (Use a simple calculation of combined salary * 3 to begin with).
+
+This project will give you practice in:
+
+Components, state + props
+
+Business logic
+
+Controlled form components
+
+As an extension, you can add more fields - and therefore complexity - to the calculation. For example:
+
+Add a deposit field, which is added on to the maximum value of the property
+
+Add a field for "other monthly commitments", which should reduce the maximum possible value
+
+As an advanced extension:
+
+Allow the user to enter the interest rate of the mortgage, and the length of the mortgage term in years. Output their monthly repayments.
+
+Hint: Think carefully about the SOLID principles, and in particular, the Single Responsibility principle. Where are the calculations going to be performed? Plan your work carefully.
+
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
@@ -37,32 +62,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
