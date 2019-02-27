@@ -1,8 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
 
 Mortgage Calculator
 
@@ -28,6 +23,11 @@ Allow the user to enter the interest rate of the mortgage, and the length of the
 
 Hint: Think carefully about the SOLID principles, and in particular, the Single Responsibility principle. Where are the calculations going to be performed? Plan your work carefully.
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
 
 ### `npm start`
 
